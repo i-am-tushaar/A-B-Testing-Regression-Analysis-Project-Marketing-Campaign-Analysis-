@@ -1,4 +1,4 @@
-# A-B-Testing-Regression-Analysis-Project-Marketing-Campaign-Analysis-
+# Marketing Campaign Optimization: A/B Testing, Hypothesis Testing & Regression Analysis
 Primary objective is to maximize the return on investment (ROI) for our clients' advertising  campaigns. We have conducted two ad campaigns, one on Facebook and the other on AdWords, and we need to determine  which platform yields better results in terms of clicks, conversions, and overall cost-effectiveness. 
 
 Analyzed marketing campaign performance using A/B testing, hypothesis testing, and regression analysis to measure the impact of different advertising strategies.
